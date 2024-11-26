@@ -30,7 +30,7 @@ Welcome to my portfolio. This portfolio uses modern technologies like ThreeJS to
 Here are some of the projects I've completed :
 
 1. **VertiTech 💚**: An online marketplace for eco-responsible products.
-2. **Nvemo 🤖 **: An AI-powered voice assistant.
+2. **Nvemo 🤖**: An AI-powered voice assistant.
 3. **Flower store management interface 𓍢ִ໋🌷͙֒**: An interface to manage information according to the user's role.
 
 ## Work experience 👨🏻‍💻
